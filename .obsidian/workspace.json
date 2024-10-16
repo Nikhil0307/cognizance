@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "2ce31f447d037728",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7f570740eb921d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fbd8ab133bd5094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bad *ss Computers 💻 💽/CPU Cache 🚨.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4058f3f933e399b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f29650dd00f8acb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "058e7a99eb18d303",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a6db0120aa51d42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99dc7a4932e535fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "06ce995bde5701e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9369f2f98a4ac74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40becc8a37522f0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bad *ss Computers 💻 💽/CPU Cache 🚨.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "conte",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e6413cd254443f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bad *ss Computers 💻 💽/CPU Cache 🚨.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a48c1222d36e4399",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47cd290baf802d53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bad *ss Computers 💻 💽/CPU Cache 🚨.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7fbd8ab133bd5094",
+  "lastOpenFiles": [
+    "Bad *ss Computers 💻 💽/CPU Flags 🚩.md",
+    "Bad *ss Computers 💻 💽/CPU Cycles  🔄 🚲.md",
+    "Designing fcuking Systems/🤫 DDD.md",
+    "Bad *ss Computers 💻 💽/CPU Cache 🚨.md",
+    "Bad *ss Computers 💻 💽/Cores 🫀🗡️.md",
+    "Blogs to cook 🧑🏼‍🍳🤑.md",
+    "Designing fcuking Systems/Raft 🌍🕹️.md",
+    "Untitled",
+    "Designing fcuking Systems/Components 🚨/ZooKeeper 🦛🦍🦁 🧔🏻.md",
+    "Cooked hard 🤯🔥/☢️ WSGI.md",
+    "Designing fcuking Systems/Components 🚨",
+    "Bloody Languages ♋️ 🚭/GO BRO 🧪💨/7 - Maps 🗾.md",
+    "Bloody Languages ♋️ 🚭/GO BRO 🧪💨/4 - Loops 🔁.md",
+    "Bloody Languages ♋️ 🚭/GO BRO 🧪💨/5 - Arrays 🏁.md",
+    "Bloody Languages ♋️ 🚭/GO BRO 🧪💨/6 - Slices 🔪.md",
+    "Bloody Languages ♋️ 🚭/GO BRO 🧪💨/12 -  Structs 🤥 & Methods 😬.md",
+    "Heating up DSA ⏳ 🧨/Data Structres 📊/Heap 🗻.md",
+    "Cooked hard 🤯🔥/🧬 ASGI.md",
+    "Cooked hard 🤯🔥/🌴LSM Trees 🌳.md",
+    "Cooked hard 🤯🔥/polling || webhook 🪝⛓️.md",
+    "Cooked hard 🤯🔥/http2.md",
+    "Cooked hard 🤯🔥/http1 vs http2.md",
+    "Cooked hard 🤯🔥/http1.md",
+    "Cooked hard 🤯🔥/🫀99.99999999% Cache Consistency ☣️.md",
+    "Cooked hard 🤯🔥/🪦 kill a thread in python 💀.md",
+    "Cooked hard 🤯🔥/🥒 Pickle internals 🫣🙈.md",
+    "Cooked hard 🤯🔥/💥💀Python Backend Internals.md",
+    "Bloody Languages ♋️ 🚭/GO BRO 🧪💨/Untitled.md",
+    "JPEG & PNG & ...  🏞️/Screenshot 2024-10-08 at 1.02.33 AM.png",
+    "JPEG & PNG & ...  🏞️/Screenshot 2024-10-08 at 1.01.30 AM.png",
+    "Pasted image 20241002012002.png",
+    "Untitled.canvas",
+    "JPEG & PNG & ...  🏞️/polaris-meta.jpeg",
+    "JPEG & PNG & ...  🏞️/trace-meta-consistency-cache.jpeg",
+    "JPEG & PNG & ...  🏞️",
+    "Pasted image 20240926021907.png",
+    "cook/publish/attachments/vercel-project-id.png",
+    "cook/publish/attachments/vercel-create-token.png",
+    "cook/publish/attachments/vercel-account-id.png",
+    "cook/publish/attachments/publish-dir-yml.png",
+    "cook/publish/attachments",
+    "cook/publish",
+    "cook",
+    "AWS",
+    "Heating up DSA ⏳ 🧨/Data Structres 📊",
+    "Template for linkedin & reddit 🍤",
+    "Heating up DSA ⏳ 🧨/Sorting"
+  ]
+}
