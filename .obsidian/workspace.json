@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab7f570740eb921d",
+        "id": "b407d38c862579d8",
         "type": "tabs",
         "children": [
           {
-            "id": "7fbd8ab133bd5094",
+            "id": "e3c09a0ac6a9c10f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bad *ss Computers 💻 💽/CPU Cache 🚨.md",
+                "file": "DBMS 🫙💿/Transactions 🚀.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Transactions 🚀"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bad *ss Computers 💻 💽/CPU Cache 🚨.md",
+                "file": "DBMS 🫙💿/Transactions 🚀.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "conte",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Transactions 🚀"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bad *ss Computers 💻 💽/CPU Cache 🚨.md",
+                "file": "DBMS 🫙💿/Transactions 🚀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Transactions 🚀"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bad *ss Computers 💻 💽/CPU Cache 🚨.md"
-              }
+                "file": "DBMS 🫙💿/Transactions 🚀.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Transactions 🚀"
             }
           }
         ]
@@ -146,12 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fbd8ab133bd5094",
+  "active": "e3c09a0ac6a9c10f",
   "lastOpenFiles": [
-    "Bad *ss Computers 💻 💽/CPU Flags 🚩.md",
+    "DBMS 🫙💿/Concurrency ⛓️.md",
+    "DBMS 🫙💿/Transactions 🚀.md",
+    "DBMS 🫙💿/Starvation & Deadlock 🪦 🏴‍☠️.md",
+    "DBMS 🫙💿/Snapshots 🎆 🎇.md",
+    "DBMS 🫙💿/Explicit & Implicit Locks 🔏.md",
+    "Improvising Distributed cache  🫀.md",
     "Bad *ss Computers 💻 💽/CPU Cycles  🔄 🚲.md",
-    "Designing fcuking Systems/🤫 DDD.md",
+    "DBMS 🫙💿",
+    "Designing f*cking Systems 👾/Components 🚨/ZooKeeper 🦛🦍🦁 🧔🏻.md",
+    "Designing f*cking Systems 👾/Raft 🌍🕹️.md",
+    "Designing f*cking Systems 👾/🤫 DDD.md",
+    "Designing f*cking Systems 👾/Components 🚨",
+    "Designing f*cking Systems 👾",
+    "AWS/0 - Why Cloud ? ☁️.md",
     "Bad *ss Computers 💻 💽/CPU Cache 🚨.md",
+    "Bad *ss Computers 💻 💽/CPU Flags 🚩.md",
+    "Designing fcuking Systems/🤫 DDD.md",
     "Bad *ss Computers 💻 💽/Cores 🫀🗡️.md",
     "Blogs to cook 🧑🏼‍🍳🤑.md",
     "Designing fcuking Systems/Raft 🌍🕹️.md",
@@ -166,16 +195,6 @@
     "Bloody Languages ♋️ 🚭/GO BRO 🧪💨/12 -  Structs 🤥 & Methods 😬.md",
     "Heating up DSA ⏳ 🧨/Data Structres 📊/Heap 🗻.md",
     "Cooked hard 🤯🔥/🧬 ASGI.md",
-    "Cooked hard 🤯🔥/🌴LSM Trees 🌳.md",
-    "Cooked hard 🤯🔥/polling || webhook 🪝⛓️.md",
-    "Cooked hard 🤯🔥/http2.md",
-    "Cooked hard 🤯🔥/http1 vs http2.md",
-    "Cooked hard 🤯🔥/http1.md",
-    "Cooked hard 🤯🔥/🫀99.99999999% Cache Consistency ☣️.md",
-    "Cooked hard 🤯🔥/🪦 kill a thread in python 💀.md",
-    "Cooked hard 🤯🔥/🥒 Pickle internals 🫣🙈.md",
-    "Cooked hard 🤯🔥/💥💀Python Backend Internals.md",
-    "Bloody Languages ♋️ 🚭/GO BRO 🧪💨/Untitled.md",
     "JPEG & PNG & ...  🏞️/Screenshot 2024-10-08 at 1.02.33 AM.png",
     "JPEG & PNG & ...  🏞️/Screenshot 2024-10-08 at 1.01.30 AM.png",
     "Pasted image 20241002012002.png",
@@ -191,9 +210,6 @@
     "cook/publish/attachments",
     "cook/publish",
     "cook",
-    "AWS",
-    "Heating up DSA ⏳ 🧨/Data Structres 📊",
-    "Template for linkedin & reddit 🍤",
-    "Heating up DSA ⏳ 🧨/Sorting"
+    "AWS"
   ]
 }

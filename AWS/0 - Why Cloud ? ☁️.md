@@ -16,4 +16,3 @@ There are three types of deployment in general
 
 **Hybrid Deployment**
 - Hybrid deployment is the combination of both cloud and on-permisis hardware
-- 
