@@ -1,6 +1,6 @@
 > As we know, every core has cache dependent to the specific core *(namely l1 and l2 in below diagram)* and all cache share an common cache *(namely l3 in below diagram)*
 
-![[Screenshot 2024-10-08 at 1.02.33 AM.png]]
+![[CPU_cache_architecture.png]]
 
 Okeyyyy !! now we are getting into the weeds of processor's world 🌍 ..... looks funny nahh 😆
 

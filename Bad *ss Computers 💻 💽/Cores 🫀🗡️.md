@@ -19,6 +19,6 @@
 - This can be simplified as the more the cache level increases size and latency increases linearly
 - We can have these speeds with reference to cpu cycles
 
-![[Screenshot 2024-10-08 at 1.01.30 AM.png]]
+![[Cache_access_latency.png]]
 
 `Note :: The above values varies with respect to processor models`
