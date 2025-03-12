@@ -16,4 +16,3 @@ tags:
 - Touch base -> to make a contact  
 - Let’s take this offline -> no need to discuss RN  
 - Bang for your buck -> value for one's money  
-
