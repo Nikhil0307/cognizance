@@ -1,3 +1,11 @@
+---
+title: "CPUCache: BadassComputers"
+date: "2025-03-12"
+tags:
+  - "BadassComputers"
+  - "CPUCache"
+---
+
 > As we know, every core has cache dependent to the specific core *(namely l1 and l2 in below diagram)* and all cache share an common cache *(namely l3 in below diagram)*
 
 ![[CPU_cache_architecture.png]]

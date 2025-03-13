@@ -1,3 +1,11 @@
+---
+title: "LSMTrees: Cooked_hard"
+date: "2025-03-12"
+tags:
+  - "Cooked_hard"
+  - "LSMTrees"
+---
+
 **Log Structured Merge trees** are used in databases and filesystems. 
 Whats the benefit? 
 > LSM tree is optimized for faster writes 

@@ -1,3 +1,11 @@
+---
+title: "Concurrency: DBMS"
+date: "2025-03-12"
+tags:
+  - "DBMS"
+  - "Concurrency"
+---
+
 As we might know, a database is not meant for a single transaction execution
 Lets take an example to get a clear view
 considering our database is a banking transaction database, where every money transaction across accounts happens as dbms transactions ... [To know why this case happens as a database transaction and not as a simple query execution??](obsidian://open?vault=Fu*king%20banged%20%F0%9F%91%80&file=DBMS%20%F0%9F%AB%99%F0%9F%92%BF%2FTransactions%20%F0%9F%9A%80)

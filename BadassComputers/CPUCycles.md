@@ -1,3 +1,11 @@
+---
+title: "CPUCycles: BadassComputers"
+date: "2025-03-12"
+tags:
+  - "BadassComputers"
+  - "CPUCycles"
+---
+
 CPU cycles , CPU cycles and CPU cycles everywhere...... whattt are theyyy exactly 😵
 
 In simple CPU cycle is a instruction cycle, representing the basic unit of time in which CPU executes instructions

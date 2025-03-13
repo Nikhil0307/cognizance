@@ -1,3 +1,11 @@
+---
+title: "SQS_and_SNS: BLOGS"
+date: "2025-03-12"
+tags:
+  - "BLOGS"
+  - "SQS_and_SNS"
+---
+
 # **"Unleashing the AWS Messaging Duo: SNS and SQS in Action!"** 🚀
 
 Welcome to the world of AWS messaging magic! Whether you're building a notification system, decoupling services, or dabbling in event-driven architectures, **Amazon SNS** (Simple Notification Service) and **Amazon SQS** (Simple Queue Service) are here to save the day.

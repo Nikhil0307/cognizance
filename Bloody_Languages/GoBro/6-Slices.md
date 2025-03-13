@@ -1,3 +1,11 @@
+---
+title: "6-Slices: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "6-Slices"
+---
+
 ***Slices_ are an important data type in Go, giving a more powerful interface to sequences than arrays.***
 
 Unlike arrays, slices are typed only by the elements they contain. An unintialized slice equals to `nil` and has length as `0`

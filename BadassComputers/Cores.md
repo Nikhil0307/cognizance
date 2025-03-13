@@ -1,3 +1,11 @@
+---
+title: "Cores: BadassComputers"
+date: "2025-03-12"
+tags:
+  - "BadassComputers"
+  - "Cores"
+---
+
 > ***CPU core is essentially a processing unit within a CPU which executes tasks***
 > ***CPU may have multiple cores, allowing to perform multiple tasks simultaneously***
 

@@ -1,3 +1,11 @@
+---
+title: "Pickleinternals: Cooked_hard"
+date: "2025-03-12"
+tags:
+  - "Cooked_hard"
+  - "Pickleinternals"
+---
+
 Have you ever wondered what happens when you use pickle.dumps() ?**What magical process converts your complex Python objects into byte streams?** Under the hood, Python's Pickle module is significantly more than a simple tool; it functions as a virtual machine, executing a series of opcodes to serialise and deserialize objects. Let’s smooth down this mystery and dive into Pickle’s inner workings!
 
 If you are new to Python's Pickle module or want a refresher on the fundamentals, check out our introductory guide: _[Basics of Python's Pickle: Serialization, Deserialization, and Protocols](https://nikhilbaskar.substack.com/p/demystifying-python-pickle-serialization)_

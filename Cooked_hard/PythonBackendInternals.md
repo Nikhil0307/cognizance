@@ -1,3 +1,11 @@
+---
+title: "PythonBackendInternals: Cooked_hard"
+date: "2025-03-12"
+tags:
+  - "Cooked_hard"
+  - "PythonBackendInternals"
+---
+
 Okiesss lesgo real quickly on how backend looks 🤩
 As we might all know the three main components of backend side of python web applications are
 - A Web Server :: such as Apache / Nginx

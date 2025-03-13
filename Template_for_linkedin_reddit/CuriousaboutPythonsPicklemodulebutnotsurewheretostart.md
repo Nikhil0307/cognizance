@@ -1,3 +1,11 @@
+---
+title: "CuriousaboutPythonsPicklemodulebutnotsurewheretostart: Template_for_linkedin_reddit"
+date: "2025-03-12"
+tags:
+  - "Template_for_linkedin_reddit"
+  - "CuriousaboutPythonsPicklemodulebutnotsurewheretostart"
+---
+
 I’ve just published a beginner-friendly blog post that introduces the basics of Python’s Pickle module. 📚 Whether you're new to serialization and deserialization or just need a refresher, this post has you covered!
 
 In this blog, you'll learn:

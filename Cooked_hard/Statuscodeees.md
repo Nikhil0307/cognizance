@@ -1,3 +1,11 @@
+---
+title: "Statuscodeees: Cooked_hard"
+date: "2025-03-12"
+tags:
+  - "Cooked_hard"
+  - "Statuscodeees"
+---
+
 ### ***1XX - Information***
 - *100 - Continue*
 - *101 - Switching Protocols*

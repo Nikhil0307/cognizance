@@ -1,3 +1,11 @@
+---
+title: "4-Loops: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "4-Loops"
+---
+
 The **`for`** loop is the only loop construct in Go, but it can be used in various ways. 🤑
 
 **Basic for loop**

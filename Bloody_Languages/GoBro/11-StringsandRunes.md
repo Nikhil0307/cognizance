@@ -1,3 +1,11 @@
+---
+title: "11-StringsandRunes: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "11-StringsandRunes"
+---
+
 Go String is a read-only bytes. 
 In other languages, Strings are made of "characters".  *But in Go the concept of character is called as **rune*** -> `An integer that represents a unicode code point`
 

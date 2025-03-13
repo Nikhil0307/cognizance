@@ -1,3 +1,11 @@
+---
+title: "killathreadinpython: Cooked_hard"
+date: "2025-03-12"
+tags:
+  - "Cooked_hard"
+  - "killathreadinpython"
+---
+
 *GIL releases thread either during an i/o operation or when executions are under cpython👀🔥*
 
 While multithreading Killing a python thread sucks as it may lead to dreadlock , issues on release of memory🏃

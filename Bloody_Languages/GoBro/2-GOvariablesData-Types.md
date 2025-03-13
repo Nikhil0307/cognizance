@@ -1,3 +1,11 @@
+---
+title: "2-GOvariablesData-Types: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "2-GOvariablesData-Types"
+---
+
 Broo, Go as any other language has several built-in data types👻
 
 > **Basic types :**  `int, float64, string, bool`

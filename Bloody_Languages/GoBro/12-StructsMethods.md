@@ -1,3 +1,11 @@
+---
+title: "12-StructsMethods: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "12-StructsMethods"
+---
+
 ***GO structs are typed collection of fields.***
 ```
 type person struct{

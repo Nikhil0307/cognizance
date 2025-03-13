@@ -1,3 +1,11 @@
+---
+title: "Transactions: DBMS"
+date: "2025-03-12"
+tags:
+  - "DBMS"
+  - "Transactions"
+---
+
 In context of databases, a transaction is a logical unit of work that might consist of one or more database operations such as insert, update, delete.
 These operations are grouped together as a single entity or a unit, where either all of the operations will succeed or none of them are executed at all.
 

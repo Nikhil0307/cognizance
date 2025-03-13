@@ -1,3 +1,11 @@
+---
+title: "DDD: Designing_systems"
+date: "2025-03-12"
+tags:
+  - "Designing_systems"
+  - "DDD"
+---
+
 Domain Driven Architecture
 Basically this architecture is composed of 3 layers: 
 - Domain 🧊

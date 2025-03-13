@@ -1,3 +1,11 @@
+---
+title: "MergeSort: Sorting"
+date: "2025-03-12"
+tags:
+  - "Sorting"
+  - "MergeSort"
+---
+
 **Time Complexity ->** O(N log N)
 **Space Complexity ->** O(N)
 **When to use :**

@@ -1,3 +1,11 @@
+---
+title: "1-Infrastructure: AWS"
+date: "2025-03-12"
+tags:
+  - "AWS"
+  - "1-Infrastructure"
+---
+
 Generally we knew about Data centre, 
 Consider we have a Data centre and a disaster takes place out of no where leading to lose of all of our data in the data centre... shitttt this should never happen 💩
 

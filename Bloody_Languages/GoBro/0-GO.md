@@ -1,3 +1,11 @@
+---
+title: "0-GO: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "0-GO"
+---
+
 _Go is an compiled language ⟢_  
 _Development known for it’s simplicity (just like python) for its simple syntax 🙈_  
 *GoLang excels in **performance compared to Python, Ruby, etc ,..⏫***

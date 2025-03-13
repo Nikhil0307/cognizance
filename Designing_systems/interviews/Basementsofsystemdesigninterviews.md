@@ -1,3 +1,11 @@
+---
+title: "Basementsofsystemdesigninterviews: interviews"
+date: "2025-03-12"
+tags:
+  - "interviews"
+  - "Basementsofsystemdesigninterviews"
+---
+
 
 >*RoadMap for designing a **User facing products**:*
 ![[user_facing_product_design_roadmap.png]] 

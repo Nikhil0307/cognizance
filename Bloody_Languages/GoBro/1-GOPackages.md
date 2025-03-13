@@ -1,3 +1,11 @@
+---
+title: "1-GOPackages: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "1-GOPackages"
+---
+
 
 *Which part of the .go file executes at first ?*
 >*function with name as *main* should be defined which will be called as package name on top of the file 😪*

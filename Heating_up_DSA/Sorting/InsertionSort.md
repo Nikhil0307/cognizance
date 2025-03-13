@@ -1,3 +1,11 @@
+---
+title: "InsertionSort: Sorting"
+date: "2025-03-12"
+tags:
+  - "Sorting"
+  - "InsertionSort"
+---
+
 **Time Complexity ->** O(N²)
 **Space Complexity ->** O(1)
 **When to use :**

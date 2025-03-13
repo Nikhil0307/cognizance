@@ -1,3 +1,11 @@
+---
+title: "3-Conditions: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "3-Conditions"
+---
+
 Just like other languages GO has if, switch, for and so on 
 
 **If else-if else statement example**

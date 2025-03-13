@@ -1,3 +1,11 @@
+---
+title: "0-Why_Cloud: AWS"
+date: "2025-03-12"
+tags:
+  - "AWS"
+  - "0-Why_Cloud"
+---
+
 >*Before cloud emerged, organizations had their own compute, store and network equipments*
 >*At a particular point of time as the need grows , the need of resources and need to maintain grew in a linear pattern -> leading to difficulties to maintain by orgs*
 

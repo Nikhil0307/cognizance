@@ -1,3 +1,11 @@
+---
+title: "9-Closures: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "9-Closures"
+---
+
 ***Closures can also be said as anonymous functions, where anonymous functions are useful when we need to define a function inline without having to name it.***
 
 ```

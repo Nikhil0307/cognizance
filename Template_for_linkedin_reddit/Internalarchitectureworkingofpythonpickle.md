@@ -1,3 +1,11 @@
+---
+title: "Internalarchitectureworkingofpythonpickle: Template_for_linkedin_reddit"
+date: "2025-03-12"
+tags:
+  - "Template_for_linkedin_reddit"
+  - "Internalarchitectureworkingofpythonpickle"
+---
+
 Ever wondered what happens behind the scenes when you use pickle.dumps() in Python 🐍 ? My latest blog dives deep into the internals of Python’s Pickle module, revealing how it magically converts complex objects into byte streams! 💫
 In this blog, I explore:
 🛠 The Pickle Virtual Machine: Discover how Pickle’s virtual machine processes and executes opcodes to serialise and deserialize objects.

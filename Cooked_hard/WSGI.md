@@ -1,3 +1,11 @@
+---
+title: "WSGI: Cooked_hard"
+date: "2025-03-12"
+tags:
+  - "Cooked_hard"
+  - "WSGI"
+---
+
 WSGI (Web Server Gateway Interface) layer is a specification that provides a standardised interface between web servers and python web applications / frameworks.
 Check out [[💥💀Python Backend Internals]] to grind basics 
 

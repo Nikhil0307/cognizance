@@ -1,3 +1,11 @@
+---
+title: "7-Maps: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "7-Maps"
+---
+
 To create an empty map, use the builtin `make`: `make(map[key-type]val-type)`
 Map is a package which needs to be imported as `import "maps"`
 > We can set key value pairs as like in python

@@ -1,3 +1,11 @@
+---
+title: "5-Arrays: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "5-Arrays"
+---
+
 In GO array is a sequence of elements of specific length (just as in java)
 
 >array can be created without initialization, where consider creating an int array of size 5 , makes all the values to the default int value of 0. example below

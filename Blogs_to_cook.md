@@ -1,3 +1,11 @@
+---
+title: "Blogs_to_cook: posts"
+date: "2025-03-12"
+tags:
+  - "posts"
+  - "Blogs_to_cook"
+---
+
 Why http2 and what is Multiplexing in http 2 ?
 Python Proxy design
 pooling vs web-hooks

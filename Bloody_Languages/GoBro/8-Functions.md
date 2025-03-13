@@ -1,3 +1,11 @@
+---
+title: "8-Functions: GoBro"
+date: "2025-03-12"
+tags:
+  - "GoBro"
+  - "8-Functions"
+---
+
 As seen previously we can create a function with `func` keyword
 
 *Functions are the central in GO*

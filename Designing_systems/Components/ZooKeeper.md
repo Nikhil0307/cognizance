@@ -1,3 +1,11 @@
+---
+title: "ZooKeeper: Components"
+date: "2025-03-12"
+tags:
+  - "Components"
+  - "ZooKeeper"
+---
+
 >Zookeeper provides distributed systems with multiple features
 - Distributed configuration management 📝
 - Leader election / Consensus building
